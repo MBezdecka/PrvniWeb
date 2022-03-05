@@ -1,2 +1,3 @@
 # PrvniWeb
-Created with CodeSandbox
+
+Vytvoren v codesandboxu
